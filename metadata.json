@@ -1,0 +1,6 @@
+{
+    "uuid": "show-item@chrisjbillington.github.com",
+    "name": "Show Item",
+    "description": "D-Bus method to show a file in Nautilus on the current workspace",
+    "shell-version": ["49", "50", "51"]
+}
